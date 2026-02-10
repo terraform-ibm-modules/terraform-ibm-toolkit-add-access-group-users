@@ -1,5 +1,7 @@
 # Add Users to IBM Cloud Access Groups module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-iam-access-group](https://github.com/terraform-ibm-modules/terraform-ibm-monitoring-agent) for managing IBM Cloud access groups.
+
 Module to add (already invited) users to existing IBM Cloud access groups.
 
 ## Software dependencies
